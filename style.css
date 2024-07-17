@@ -1,0 +1,14 @@
+body {
+  background-color: aquamarine;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; /* kompletna serokosc wobrazowki */
+  height: 100%; /* kompletna wysokosc wobrazowki */
+}
